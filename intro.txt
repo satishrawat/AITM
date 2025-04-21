@@ -1,0 +1,2 @@
+Hi i am satish i am working on frontend of this app 
+systemctl start xyz
